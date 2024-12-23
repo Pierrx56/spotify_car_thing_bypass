@@ -14,3 +14,9 @@ data is located under data folder
 # Useful adb explorer to transfer files: 
 [ADB File Explorer v0.31](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/adb-file-explorer/ADB%20File%20Explorer%20v031.zip)
 
+Main screen: /usr/share/qt-superbird-app/webapp/index.html
+Main screen script: /usr/share/qt-superbird-app/webapp/static/js/main.js
+
+Setup scripts: etc/init.d/
+
+Mounted disk: /etc/fstab
