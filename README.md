@@ -8,15 +8,15 @@ data is located under data folder
 # !!! You need to activate large file storage !!!
 `git lfs install`
 
-# Install ADB for windows in C:/dev, add it to Path environment C:\dev\platform-tools
-[ADB]https://dl.google.com/android/repository/platform-tools-latest-windows.zip
+# Install [ADB](https://dl.google.com/android/repository/platform-tools-latest-windows.zip) for windows in C:/dev, add it to Path environment C:\dev\platform-tools
 
-# Useful adb explorer to transfer files: 
-[ADB File Explorer v0.31](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/adb-file-explorer/ADB%20File%20Explorer%20v031.zip)
+# Useful [ADB File Explorer v0.31](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/adb-file-explorer/ADB%20File%20Explorer%20v031.zip) to transfer files
 
-Main screen: /usr/share/qt-superbird-app/webapp/index.html
-Main screen script: /usr/share/qt-superbird-app/webapp/static/js/main.js
+# File location
+Main screen: `/usr/share/qt-superbird-app/webapp/index.html`
 
-Setup scripts: etc/init.d/
+Main screen script: `/usr/share/qt-superbird-app/webapp/static/js/main.js`
 
-Mounted disk: /etc/fstab
+Setup scripts: `etc/init.d/`
+
+Mounted disk: `/etc/fstab`
