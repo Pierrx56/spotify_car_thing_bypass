@@ -18,5 +18,8 @@ Main screen: `/usr/share/qt-superbird-app/webapp/index.html`
 Main screen script: `/usr/share/qt-superbird-app/webapp/static/js/main.js`
 
 Setup scripts: `etc/init.d/`
+Edit scripts:
+    `mount / -o remount,rw`
+    `chmod 777 etc/init.d/S01syslogd`
 
 Mounted disk: `/etc/fstab`
