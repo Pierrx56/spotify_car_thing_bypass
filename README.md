@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4aecae828965a235bfb2a3a4da4fc4b8c354e4f26915e70effa5b3420b5c9c94
-size 255
+# Trying to bypass date limitation of Spotify Car Thing
+
+Linux system is located under system_a folder
+settings is located under settings folder
+data is located under data folder
+
+
+#!!! You need to activate large file storage !!!
+`git lfs install`
