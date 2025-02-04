@@ -35,3 +35,17 @@ Launch ADB File Explorer and copy main.js `system_a\usr\share\qt-superbird-app\w
 Reboot Car Thing with cmd.exe -> `reboot`
 
 ![image](https://github.com/user-attachments/assets/1d454444-cc44-49f7-8366-7cf1daea640f)
+
+
+
+
+# TODO list
+Make shortcut 1,2,3,4 work again
+
+Make settings button work again
+
+Make double tap on scroll button -> Next music
+
+Make microphone working again (useless ?)
+
+
