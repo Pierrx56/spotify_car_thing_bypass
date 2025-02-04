@@ -20,8 +20,18 @@ Main screen: `/usr/share/qt-superbird-app/webapp/index.html`
 Main screen script: `/usr/share/qt-superbird-app/webapp/static/js/main.js`
 
 Setup scripts: `etc/init.d/`
+
 Edit scripts:
     `mount / -o remount,rw`
     `chmod 777 etc/init.d/S01syslogd`
 
 Mounted disk: `/etc/fstab`
+
+# How to bypass 
+Launch cmd.exe, then `adb.exe shell` and `mount / -o remount,rw` to be able to edit any file on Car Thing
+
+Launch ADB File Explorer and copy main.js `system_a\usr\share\qt-superbird-app\webapp\static\js` to Car Thing `/usr/share/qt-superbird-app/webapp/static/js` by using `>` button
+
+Reboot Car Thing with cmd.exe -> `reboot`
+
+![image](https://github.com/user-attachments/assets/1d454444-cc44-49f7-8366-7cf1daea640f)
