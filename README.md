@@ -40,6 +40,8 @@ Reboot Car Thing with cmd.exe -> `reboot`
 
 
 # TODO list
+Play music once Spotify is launched 
+
 Make shortcut 1,2,3,4 work again
 
 Make settings button work again
